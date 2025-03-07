@@ -1,5 +1,14 @@
 = Proposal
 
+TODO:
+
+- Noise analysis
+- power efficiency
+- clipping [?]
+- small-signal bandwidth
+- frequency response
+- DC stability
+
 == Topology
 
 - Filtering in the TX amplifier to be able to make RX simple
