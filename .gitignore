@@ -5,4 +5,8 @@
 *.tmp
 *.pdf
 *.tar*
+*.zip
+venv
+*.egg-info
+*.egg_info
 
